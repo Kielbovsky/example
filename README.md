@@ -1,3 +1,2 @@
 # example
-pętle
 Bartosz Pryszczepko
